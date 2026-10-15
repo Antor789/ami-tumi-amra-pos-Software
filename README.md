@@ -1,3 +1,6 @@
+Live Link: https://ami-tumi-amra-pos.vercel.app/
+
+
 ⚡ AMI POS & Real-Time Inventory Cloud
 
 An Enterprise-Grade Omnichannel POS, Real-Time Inventory Tracker & Executive Analytics Dashboard
