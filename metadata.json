@@ -1,0 +1,6 @@
+{
+  "name": "Ami Tumi Amra POS & Inventory",
+  "description": "Cloud-Based E-Commerce POS & Real-Time Inventory Management Dashboard for Ami Tumi Amra Retail Businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
